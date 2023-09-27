@@ -1,12 +1,11 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Criando meus testes</title>
-</head>
-<body>
-    <h1> sistema de criação de testes aa</h1>
-	<script src="app.js"></script>
-</body>
-</html>
+# Novo sistema de jogos
+
+Status do projeto: Em desenvolvimento
+
+<H1> Titulo de teste </H1>
+
+para rodar digite:
+
+-----------
+node app.js
+-----------
